@@ -13,8 +13,6 @@ Technologies Used:
 - requests for HTTP calls
 - dotenv for secure environment variable management
 Setup Instructions:
-- Clone the repo
-git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 - Install dependencies
 pip install -r requirements.txt
